@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "zelda:item/fairy_slingshot",
-		"particle": "item/fairy_slingshot"
+		"particle": "zelda:item/fairy_slingshot"
 	},
 	"elements": [
 		{
@@ -109,7 +109,8 @@
 		},
 		"ground": {
 			"rotation": [90, 0, 0],
-			"translation": [0, 1.25, 0]
+			"translation": [0, 1.25, 0],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"gui": {
 			"rotation": [0, -180, 45],
