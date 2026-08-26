@@ -2,6 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "drabiot",
 	"texture_size": [32, 32],
+	"gui_light": "front",
 	"textures": {
 		"2": "zelda:item/kokiri_sword",
 		"particle": "item/kokiri_sword"

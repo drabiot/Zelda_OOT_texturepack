@@ -1,7 +1,8 @@
 {
 	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"credit": "drabiot",
 	"texture_size": [32, 32],
+	"gui_light": "front",
 	"textures": {
 		"1": "zelda:item/fairy_slingshot",
 		"particle": "zelda:item/fairy_slingshot"
