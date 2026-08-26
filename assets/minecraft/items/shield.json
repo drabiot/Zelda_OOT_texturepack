@@ -1,0 +1,28 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "deku_shield",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "zelda:item/deku_shield_blocking"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "zelda:item/deku_shield"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/shield",
+      "model": { "type": "minecraft:shield" }
+    }
+  }
+}
