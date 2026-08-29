@@ -1,0 +1,47 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "middle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/center"
+        }
+      },
+      {
+        "when": "up",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/up"
+        }
+      },
+      {
+        "when": "down",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/down"
+        }
+      },
+      {
+        "when": "left",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/left"
+        }
+      },
+      {
+        "when": "right",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/right"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/pointed_dripstone"
+    }
+  }
+}
