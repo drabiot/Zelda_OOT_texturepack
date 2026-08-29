@@ -1,0 +1,110 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "classic",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/classic"
+        }
+      },
+      {
+        "when": "zelda_lullaby",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/zelda_lullaby"
+        }
+      },
+      {
+        "when": "song_of_time",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/song_of_time"
+        }
+      },
+      {
+        "when": "epona_song",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/epona_song"
+        }
+      },
+      {
+        "when": "saria_song",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/saria_song"
+        }
+      },
+      {
+        "when": "song_of_storm",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/song_of_storm"
+        }
+      },
+      {
+        "when": "sun_song",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/sun_song"
+        }
+      },
+      {
+        "when": "warp",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/warp"
+        }
+      },
+      {
+        "when": "minuet_of_forest",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/minuet_of_forest"
+        }
+      },
+      {
+        "when": "bolero_of_fire",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/bolero_of_fire"
+        }
+      },
+      {
+        "when": "serenade_of_water",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/serenade_of_water"
+        }
+      },
+      {
+        "when": "requiem_of_spirit",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/requiem_of_spirit"
+        }
+      },
+      {
+        "when": "nocturne_of_shadow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/nocturne_of_shadow"
+        }
+      },
+      {
+        "when": "prelude_of_light",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/prelude_of_light"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/flower_banner_pattern"
+    }
+  }
+}
