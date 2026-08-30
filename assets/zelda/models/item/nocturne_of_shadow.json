@@ -2,6 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "drabiot",
 	"texture_size": [32, 32],
+	"gui_light": "front",
 	"textures": {
 		"1": "zelda:item/nocturne_of_shadow",
 		"2": "zelda:item/song",
