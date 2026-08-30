@@ -4,7 +4,7 @@
 	"gui_light": "front",
 	"textures": {
 		"0": "zelda:item/base_time",
-		"1": "zelda:item/decoration",
+		"1": "zelda:item/decoration_time",
 		"2": "zelda:item/ring",
 		"particle": "zelda:item/base_time"
 	},
