@@ -1,0 +1,99 @@
+{
+  "custom.song_of_time": {
+    "sounds": [
+      {
+        "name": "custom/song_of_time",
+        "stream": true
+      }
+    ]
+  },
+  "custom.sun_song": {
+    "sounds": [
+      {
+        "name": "custom/sun_song",
+        "stream": true
+      }
+    ]
+  },
+  "custom.epona_song": {
+    "sounds": [
+      {
+        "name": "custom/epona_song",
+        "stream": true
+      }
+    ]
+  },
+  "custom.saria_song": {
+    "sounds": [
+      {
+        "name": "custom/saria_song",
+        "stream": true
+      }
+    ]
+  },
+  "custom.song_of_storm": {
+    "sounds": [
+      {
+        "name": "custom/song_of_storm",
+        "stream": true
+      }
+    ]
+  },
+  "custom.zelda_lullaby": {
+    "sounds": [
+      {
+        "name": "custom/zelda_lullaby",
+        "stream": true
+      }
+    ]
+  },
+  "custom.minuet_of_forest": {
+    "sounds": [
+      {
+        "name": "custom/minuet_of_forest",
+        "stream": true
+      }
+    ]
+  },
+  "custom.bolero_of_fire": {
+    "sounds": [
+      {
+        "name": "custom/bolero_of_fire",
+        "stream": true
+      }
+    ]
+  },
+  "custom.serenade_of_water": {
+    "sounds": [
+      {
+        "name": "custom/serenade_of_water",
+        "stream": true
+      }
+    ]
+  },
+  "custom.prelude_of_light": {
+    "sounds": [
+      {
+        "name": "custom/prelude_of_light",
+        "stream": true
+      }
+    ]
+  },
+  "custom.nocturne_of_shadow": {
+    "sounds": [
+      {
+        "name": "custom/nocturne_of_shadow",
+        "stream": true
+      }
+    ]
+  },
+  "custom.requiem_of_spirit": {
+    "sounds": [
+      {
+        "name": "custom/requiem_of_spirit",
+        "stream": true
+      }
+    ]
+  }
+}
+
