@@ -9,6 +9,13 @@
           "type": "minecraft:model",
           "model": "zelda:item/fairy_ocarina"
         }
+      },
+      {
+        "when": "ocarina_of_time",
+        "model": {
+          "type": "minecraft:model",
+          "model": "zelda:item/ocarina_of_time"
+        }
       }
     ],
     "fallback": {
