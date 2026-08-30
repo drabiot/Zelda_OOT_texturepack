@@ -1,7 +1,7 @@
 {
-  "pack": {
-    "description": "Texture pack for the Zelda Ocarina of Time adventure map",
-    "min_format": 69,
-    "max_format": 999
-  }
+	"pack": {
+		"description": "Texture pack for the Zelda Ocarina of Time adventure map",
+		"min_format": 88,
+		"max_format": 88
+	}
 }

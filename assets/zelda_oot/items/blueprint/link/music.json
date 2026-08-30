@@ -1,0 +1,71 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "AJ_INTERNAL_EMPTY",
+				"model": {
+					"type": "minecraft:empty"
+				}
+			},
+			{
+				"when": "yellow_single_note",
+				"model": {
+					"type": "minecraft:model",
+					"model": "zelda_oot:blueprint/link/yellow_single_note/music",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "red_single_note",
+				"model": {
+					"type": "minecraft:model",
+					"model": "zelda_oot:blueprint/link/red_single_note/music",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "blue_single_note",
+				"model": {
+					"type": "minecraft:model",
+					"model": "zelda_oot:blueprint/link/blue_single_note/music",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "green_single_note",
+				"model": {
+					"type": "minecraft:model",
+					"model": "zelda_oot:blueprint/link/green_single_note/music",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "black_single_note",
+				"model": {
+					"type": "minecraft:model",
+					"model": "zelda_oot:blueprint/link/black_single_note/music",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "zelda_oot:blueprint/link/music",
+			"tints": [
+				{"type": "minecraft:dye", "default": [1, 1, 1]}
+			]
+		}
+	}
+}
