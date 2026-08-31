@@ -1,0 +1,7 @@
+{
+	"parent": "zelda_oot:blueprint/npc_model/fado/head",
+	"textures": {
+		"0": "zelda_oot:blueprint/npc_model/fado/fado_blink",
+		"1": "zelda_oot:blueprint/npc_model/fado/fado"
+	}
+}

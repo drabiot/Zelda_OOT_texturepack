@@ -56,6 +56,27 @@
 				"assets/zelda_oot/textures/blueprint/link/young_link.png",
 				"assets/zelda_oot/textures/blueprint/link/young_link_blink.png"
 			]
+		},
+		"zelda_oot:twins": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/zelda_oot/items/blueprint/twins/body.json",
+				"assets/zelda_oot/items/blueprint/twins/head.json",
+				"assets/zelda_oot/items/blueprint/twins/left_arm.json",
+				"assets/zelda_oot/items/blueprint/twins/left_leg.json",
+				"assets/zelda_oot/items/blueprint/twins/right_arm.json",
+				"assets/zelda_oot/items/blueprint/twins/right_leg.json",
+				"assets/zelda_oot/models/blueprint/twins/blink/head.json",
+				"assets/zelda_oot/models/blueprint/twins/body.json",
+				"assets/zelda_oot/models/blueprint/twins/head.json",
+				"assets/zelda_oot/models/blueprint/twins/left_arm.json",
+				"assets/zelda_oot/models/blueprint/twins/left_leg.json",
+				"assets/zelda_oot/models/blueprint/twins/right_arm.json",
+				"assets/zelda_oot/models/blueprint/twins/right_leg.json",
+				"assets/zelda_oot/textures/blueprint/twins/hair.png",
+				"assets/zelda_oot/textures/blueprint/twins/twins.png",
+				"assets/zelda_oot/textures/blueprint/twins/twins_blink.png"
+			]
 		}
 	}
 }

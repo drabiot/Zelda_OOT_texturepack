@@ -1,0 +1,6 @@
+{
+	"parent": "zelda_oot:blueprint/twins/head",
+	"textures": {
+		"1": "zelda_oot:blueprint/twins/twins_blink"
+	}
+}
