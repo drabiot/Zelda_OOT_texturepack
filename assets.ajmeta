@@ -1,6 +1,26 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"zelda_oot:fado": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/zelda_oot/items/blueprint/fado/body.json",
+				"assets/zelda_oot/items/blueprint/fado/head.json",
+				"assets/zelda_oot/items/blueprint/fado/left_arm.json",
+				"assets/zelda_oot/items/blueprint/fado/left_leg.json",
+				"assets/zelda_oot/items/blueprint/fado/right_arm.json",
+				"assets/zelda_oot/items/blueprint/fado/right_leg.json",
+				"assets/zelda_oot/models/blueprint/fado/blink/head.json",
+				"assets/zelda_oot/models/blueprint/fado/body.json",
+				"assets/zelda_oot/models/blueprint/fado/head.json",
+				"assets/zelda_oot/models/blueprint/fado/left_arm.json",
+				"assets/zelda_oot/models/blueprint/fado/left_leg.json",
+				"assets/zelda_oot/models/blueprint/fado/right_arm.json",
+				"assets/zelda_oot/models/blueprint/fado/right_leg.json",
+				"assets/zelda_oot/textures/blueprint/fado/fado.png",
+				"assets/zelda_oot/textures/blueprint/fado/fado_blink.png"
+			]
+		},
 		"zelda_oot:link": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
