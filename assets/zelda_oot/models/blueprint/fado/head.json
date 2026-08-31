@@ -1,6 +1,7 @@
 {
 	"textures": {
 		"0": "zelda_oot:blueprint/fado/fado",
+		"1": "zelda_oot:blueprint/fado/ears",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -222,6 +223,78 @@
 				"down": {
 					"uv": [3.875, 6, 3.25, 6.625],
 					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [12.25, 9, 6],
+			"to": [12.25, 11, 11],
+			"rotation": {
+				"x": -20,
+				"y": 30,
+				"z": 0,
+				"origin": [12.25, 9, 7]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [0, 0, 5, 2],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [0, 2, 5, 4],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [0, 5, 0, 0],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [0, 0, 0, 5],
+					"texture": "#1"
+				}
+			}
+		},
+		{
+			"from": [3.749, 9, 6],
+			"to": [3.749, 11, 11],
+			"rotation": {
+				"x": -20,
+				"y": -30,
+				"z": 0,
+				"origin": [4, 9, 7]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [0, 4, 5, 6],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [5, 0, 10, 2],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [0, 5, 0, 0],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [0, 0, 0, 5],
+					"texture": "#1"
 				}
 			}
 		}

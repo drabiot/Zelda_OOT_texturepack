@@ -17,6 +17,7 @@
 				"assets/zelda_oot/models/blueprint/fado/left_leg.json",
 				"assets/zelda_oot/models/blueprint/fado/right_arm.json",
 				"assets/zelda_oot/models/blueprint/fado/right_leg.json",
+				"assets/zelda_oot/textures/blueprint/fado/ears.png",
 				"assets/zelda_oot/textures/blueprint/fado/fado.png",
 				"assets/zelda_oot/textures/blueprint/fado/fado_blink.png"
 			]
@@ -52,6 +53,12 @@
 				"assets/zelda_oot/models/blueprint/link/right_arm.json",
 				"assets/zelda_oot/models/blueprint/link/right_leg.json",
 				"assets/zelda_oot/models/blueprint/link/yellow_single_note/music.json",
+				"assets/zelda_oot/textures/blueprint/link/ears.png",
+				"assets/zelda_oot/textures/blueprint/link/music_note1.png",
+				"assets/zelda_oot/textures/blueprint/link/music_note2.png",
+				"assets/zelda_oot/textures/blueprint/link/music_note3.png",
+				"assets/zelda_oot/textures/blueprint/link/music_note4.png",
+				"assets/zelda_oot/textures/blueprint/link/music_note5.png",
 				"assets/zelda_oot/textures/blueprint/link/ocarina.png",
 				"assets/zelda_oot/textures/blueprint/link/young_link.png",
 				"assets/zelda_oot/textures/blueprint/link/young_link_blink.png"
@@ -73,6 +80,7 @@
 				"assets/zelda_oot/models/blueprint/twins/left_leg.json",
 				"assets/zelda_oot/models/blueprint/twins/right_arm.json",
 				"assets/zelda_oot/models/blueprint/twins/right_leg.json",
+				"assets/zelda_oot/textures/blueprint/twins/ears.png",
 				"assets/zelda_oot/textures/blueprint/twins/hair.png",
 				"assets/zelda_oot/textures/blueprint/twins/twins.png",
 				"assets/zelda_oot/textures/blueprint/twins/twins_blink.png"
