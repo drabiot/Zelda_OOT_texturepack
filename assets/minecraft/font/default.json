@@ -3,35 +3,35 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon.png",
-            "ascent": 3,
+            "ascent": -8,
             "height": 32,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_1.png",
-            "ascent": 3,
+            "ascent": -8,
             "height": 32,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_half.png",
-            "ascent": 3,
+            "ascent": -8,
             "height": 32,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_3.png",
-            "ascent": 3,
+            "ascent": -8,
             "height": 32,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_off.png",
-            "ascent": 3,
+            "ascent": -8,
             "height": 32,
             "chars": ["\uE004"]
         },
@@ -183,7 +183,7 @@
             "type": "bitmap",
             "file": "zelda:font/space_split.png",
             "ascent": -32768,
-            "height": 0,
+            "height": -5,
             "chars": [
                 "\uF821"
             ]
@@ -192,7 +192,7 @@
             "type": "bitmap",
             "file": "zelda:font/space_split.png",
             "ascent": -32768,
-            "height": 1,
+            "height": -5,
             "chars": [
                 "\uF822"
             ]
