@@ -94,6 +94,78 @@
         "stream": true
       }
     ]
+  },
+  "custom.link_roll": {
+    "sounds": [
+      {
+        "name": "custom/link_roll",
+        "stream": true
+      }
+    ]
+  },
+  "custom.link_roll_wall": {
+    "sounds": [
+      {
+        "name": "custom/link_roll_wall",
+        "stream": true
+      }
+    ]
+  },
+  "custom.younglink_attack1": {
+    "sounds": [
+      {
+        "name": "custom/younglink_attack1",
+        "stream": true
+      }
+    ]
+  },
+  "custom.younglink_attack2": {
+    "sounds": [
+      {
+        "name": "custom/younglink_attack2",
+        "stream": true
+      }
+    ]
+  },
+  "custom.younglink_attack3": {
+    "sounds": [
+      {
+        "name": "custom/younglink_attack3",
+        "stream": true
+      }
+    ]
+  },
+  "custom.younglink_attack4": {
+    "sounds": [
+      {
+        "name": "custom/younglink_attack4",
+        "stream": true
+      }
+    ]
+  },
+  "custom.younglink_hurt1": {
+    "sounds": [
+      {
+        "name": "custom/younglink_hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "custom.younglink_hurt2": {
+    "sounds": [
+      {
+        "name": "custom/younglink_hurt2",
+        "stream": true
+      }
+    ]
+  },
+  "custom.younglink_hurt3": {
+    "sounds": [
+      {
+        "name": "custom/younglink_hurt3",
+        "stream": true
+      }
+    ]
   }
 }
 
