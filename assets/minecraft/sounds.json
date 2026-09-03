@@ -127,6 +127,22 @@
       }
     ]
   },
+  "custom.younglink_strongattack1": {
+    "sounds": [
+      {
+        "name": "custom/younglink_strongattack1",
+        "stream": true
+      }
+    ]
+  },
+  "custom.younglink_strongattack2": {
+    "sounds": [
+      {
+        "name": "custom/younglink_strongattack2",
+        "stream": true
+      }
+    ]
+  },
   "custom.younglink_attack3": {
     "sounds": [
       {
