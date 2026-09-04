@@ -1,0 +1,159 @@
+{
+	"textures": {
+		"0": "zelda_oot:blueprint/kokiri_shopkeeper/kokiri_shopkeeper_blink",
+		"1": "zelda_oot:blueprint/kokiri_shopkeeper/ears",
+		"3": "zelda_oot:blueprint/kokiri_shopkeeper/kokiri_shopkeeper",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5.2, 8, 5.2],
+			"to": [10.8, 13.6, 10.8],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [2, 2, 4, 4],
+					"texture": "#3"
+				},
+				"east": {
+					"uv": [0, 2, 2, 4],
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [6, 2, 8, 4],
+					"texture": "#3"
+				},
+				"west": {
+					"uv": [4, 2, 6, 4],
+					"texture": "#3"
+				},
+				"up": {
+					"uv": [4, 2, 2, 0],
+					"texture": "#3"
+				},
+				"down": {
+					"uv": [6, 0, 4, 2],
+					"texture": "#3"
+				}
+			}
+		},
+		{
+			"from": [5.025, 7.825, 5.025],
+			"to": [10.975, 13.775, 10.975],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [10, 2, 12, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8, 2, 10, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [14, 2, 16, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [12, 2, 14, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [12, 2, 10, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [14, 0, 12, 2],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [10.975, 8.7, 6.6],
+			"to": [10.975, 10.1, 9.4],
+			"rotation": {
+				"x": -10,
+				"y": 30,
+				"z": 0,
+				"origin": [10.975, 8.7, 7.3]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [0, 0, 4, 2],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [0, 2, 4, 4],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [0, 4, 0, 0],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [0, 0, 0, 4],
+					"texture": "#1"
+				}
+			}
+		},
+		{
+			"from": [5.025, 8.7, 6.6],
+			"to": [5.025, 10.1, 9.4],
+			"rotation": {
+				"x": -10,
+				"y": -30,
+				"z": 0,
+				"origin": [5.025, 8.7, 7.3]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [0, 4, 4, 6],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [4, 0, 8, 2],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [0, 4, 0, 0],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [0, 0, 0, 4],
+					"texture": "#1"
+				}
+			}
+		}
+	]
+}

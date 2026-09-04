@@ -44,6 +44,30 @@
 				"assets/zelda_oot/textures/blueprint/know_it_all_brother/know_it_all_brother.png"
 			]
 		},
+		"zelda_oot:kokiri_shopkeeper": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/zelda_oot/items/blueprint/kokiri_shopkeeper/body.json",
+				"assets/zelda_oot/items/blueprint/kokiri_shopkeeper/hat.json",
+				"assets/zelda_oot/items/blueprint/kokiri_shopkeeper/head.json",
+				"assets/zelda_oot/items/blueprint/kokiri_shopkeeper/left_arm.json",
+				"assets/zelda_oot/items/blueprint/kokiri_shopkeeper/left_leg.json",
+				"assets/zelda_oot/items/blueprint/kokiri_shopkeeper/right_arm.json",
+				"assets/zelda_oot/items/blueprint/kokiri_shopkeeper/right_leg.json",
+				"assets/zelda_oot/models/blueprint/kokiri_shopkeeper/blink/head.json",
+				"assets/zelda_oot/models/blueprint/kokiri_shopkeeper/body.json",
+				"assets/zelda_oot/models/blueprint/kokiri_shopkeeper/hat.json",
+				"assets/zelda_oot/models/blueprint/kokiri_shopkeeper/head.json",
+				"assets/zelda_oot/models/blueprint/kokiri_shopkeeper/left_arm.json",
+				"assets/zelda_oot/models/blueprint/kokiri_shopkeeper/left_leg.json",
+				"assets/zelda_oot/models/blueprint/kokiri_shopkeeper/right_arm.json",
+				"assets/zelda_oot/models/blueprint/kokiri_shopkeeper/right_leg.json",
+				"assets/zelda_oot/textures/blueprint/kokiri_shopkeeper/ears.png",
+				"assets/zelda_oot/textures/blueprint/kokiri_shopkeeper/hat.png",
+				"assets/zelda_oot/textures/blueprint/kokiri_shopkeeper/kokiri_shopkeeper.png",
+				"assets/zelda_oot/textures/blueprint/kokiri_shopkeeper/kokiri_shopkeeper_blink.png"
+			]
+		},
 		"zelda_oot:link": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
