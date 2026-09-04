@@ -1,0 +1,76 @@
+{
+	"format_version": "1.21.11",
+	"credit": "drabiot",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "minecraft:block/chest",
+		"particle": "minecraft:block/chest"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [1, -10, -13],
+			"to": [15, 0, 1],
+			"rotation": {"x": -180, "y": 0, "z": 0, "origin": [8, 0, 1]},
+			"faces": {
+				"north": {"uv": [3.5, 8.25, 7, 10.75], "texture": "#0"},
+				"east": {"uv": [0, 8.25, 3.5, 10.75], "texture": "#0"},
+				"south": {"uv": [10.5, 8.25, 14, 10.75], "texture": "#0"},
+				"west": {"uv": [7, 8.25, 10.5, 10.75], "texture": "#0"},
+				"up": {"uv": [7, 8.25, 3.5, 4.75], "texture": "#0"},
+				"down": {"uv": [10.5, 4.75, 7, 8.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lid",
+			"from": [1, 5, 15],
+			"to": [15, 10, 29],
+			"rotation": {"x": -62.5, "y": 0, "z": 0, "origin": [8, 10, 15]},
+			"faces": {
+				"north": {"uv": [3.5, 3.5, 7, 4.75], "texture": "#0"},
+				"east": {"uv": [0, 3.5, 3.5, 4.75], "texture": "#0"},
+				"south": {"uv": [10.5, 3.5, 14, 4.75], "texture": "#0"},
+				"west": {"uv": [7, 3.5, 10.5, 4.75], "texture": "#0"},
+				"up": {"uv": [7, 3.5, 3.5, 0], "texture": "#0"},
+				"down": {"uv": [10.5, 0, 7, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "knob",
+			"from": [7, 8, 29],
+			"to": [9, 12, 30],
+			"rotation": {"x": -62.5, "y": 0, "z": 0, "origin": [8, 10, 15]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 0.75, 1.25], "texture": "#0"},
+				"east": {"uv": [0, 0.25, 0.25, 1.25], "texture": "#0"},
+				"south": {"uv": [1, 0.25, 1.5, 1.25], "texture": "#0"},
+				"west": {"uv": [0.75, 0.25, 1, 1.25], "texture": "#0"},
+				"up": {"uv": [0.75, 0.25, 0.25, 0], "texture": "#0"},
+				"down": {"uv": [1.25, 0, 0.75, 0.25], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "base",
+			"origin": [16, 0, 16],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "lid",
+			"origin": [16, 9, 15],
+			"scope": 0,
+			"color": 0,
+			"children": [1]
+		},
+		{
+			"name": "knob",
+			"origin": [16, 9, 15],
+			"scope": 0,
+			"color": 0,
+			"children": [2]
+		}
+	]
+}

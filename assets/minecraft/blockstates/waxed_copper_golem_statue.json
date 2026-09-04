@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "minecraft:block/chest_open" },
+    "facing=south": { "model": "minecraft:block/chest_open", "y": 180 },
+    "facing=east":  { "model": "minecraft:block/chest_open", "y": 90 },
+    "facing=west":  { "model": "minecraft:block/chest_open", "y": 270 }
+  }
+}
