@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "zelda_oot:blueprint/twins/twins_blink",
+		"0": "zelda_oot:blueprint/know_it_all_brother/know_it_all_brother",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -20,27 +20,27 @@
 			},
 			"faces": {
 				"north": {
-					"uv": [0.5, 4.5, 1.5, 6],
+					"uv": [5, 5, 7, 8],
 					"texture": "#0"
 				},
 				"east": {
-					"uv": [0, 4.5, 0.5, 6],
+					"uv": [4, 5, 5, 8],
 					"texture": "#0"
 				},
 				"south": {
-					"uv": [2, 4.5, 3, 6],
+					"uv": [8, 5, 10, 8],
 					"texture": "#0"
 				},
 				"west": {
-					"uv": [1.5, 4.5, 2, 6],
+					"uv": [7, 5, 8, 8],
 					"texture": "#0"
 				},
 				"up": {
-					"uv": [1.5, 4.5, 0.5, 4],
+					"uv": [7, 5, 5, 4],
 					"texture": "#0"
 				},
 				"down": {
-					"uv": [2.5, 4, 1.5, 4.5],
+					"uv": [9, 4, 7, 5],
 					"texture": "#0"
 				}
 			}
@@ -56,27 +56,27 @@
 			},
 			"faces": {
 				"north": {
-					"uv": [4.5, 0.5, 5.5, 2],
+					"uv": [5, 9, 7, 12],
 					"texture": "#0"
 				},
 				"east": {
-					"uv": [4, 0.5, 4.5, 2],
+					"uv": [4, 9, 5, 12],
 					"texture": "#0"
 				},
 				"south": {
-					"uv": [6, 0.5, 7, 2],
+					"uv": [8, 9, 10, 12],
 					"texture": "#0"
 				},
 				"west": {
-					"uv": [5.5, 0.5, 6, 2],
+					"uv": [7, 9, 8, 12],
 					"texture": "#0"
 				},
 				"up": {
-					"uv": [5.5, 0.5, 4.5, 0],
+					"uv": [7, 9, 5, 8],
 					"texture": "#0"
 				},
 				"down": {
-					"uv": [6.5, 0, 5.5, 0.5],
+					"uv": [9, 8, 7, 9],
 					"texture": "#0"
 				}
 			}

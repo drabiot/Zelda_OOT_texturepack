@@ -22,6 +22,28 @@
 				"assets/zelda_oot/textures/blueprint/fado/fado_blink.png"
 			]
 		},
+		"zelda_oot:know_it_all_brother": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/zelda_oot/items/blueprint/know_it_all_brother/body.json",
+				"assets/zelda_oot/items/blueprint/know_it_all_brother/hat.json",
+				"assets/zelda_oot/items/blueprint/know_it_all_brother/head.json",
+				"assets/zelda_oot/items/blueprint/know_it_all_brother/left_arm.json",
+				"assets/zelda_oot/items/blueprint/know_it_all_brother/left_leg.json",
+				"assets/zelda_oot/items/blueprint/know_it_all_brother/right_arm.json",
+				"assets/zelda_oot/items/blueprint/know_it_all_brother/right_leg.json",
+				"assets/zelda_oot/models/blueprint/know_it_all_brother/body.json",
+				"assets/zelda_oot/models/blueprint/know_it_all_brother/hat.json",
+				"assets/zelda_oot/models/blueprint/know_it_all_brother/head.json",
+				"assets/zelda_oot/models/blueprint/know_it_all_brother/left_arm.json",
+				"assets/zelda_oot/models/blueprint/know_it_all_brother/left_leg.json",
+				"assets/zelda_oot/models/blueprint/know_it_all_brother/right_arm.json",
+				"assets/zelda_oot/models/blueprint/know_it_all_brother/right_leg.json",
+				"assets/zelda_oot/textures/blueprint/know_it_all_brother/ears.png",
+				"assets/zelda_oot/textures/blueprint/know_it_all_brother/hat.png",
+				"assets/zelda_oot/textures/blueprint/know_it_all_brother/know_it_all_brother.png"
+			]
+		},
 		"zelda_oot:link": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
@@ -81,7 +103,6 @@
 				"assets/zelda_oot/models/blueprint/twins/right_arm.json",
 				"assets/zelda_oot/models/blueprint/twins/right_leg.json",
 				"assets/zelda_oot/textures/blueprint/twins/ears.png",
-				"assets/zelda_oot/textures/blueprint/twins/hair.png",
 				"assets/zelda_oot/textures/blueprint/twins/twins.png",
 				"assets/zelda_oot/textures/blueprint/twins/twins_blink.png"
 			]
