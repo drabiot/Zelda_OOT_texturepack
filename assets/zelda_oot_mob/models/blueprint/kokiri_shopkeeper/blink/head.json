@@ -1,0 +1,6 @@
+{
+	"parent": "zelda_oot_mob:blueprint/kokiri_shopkeeper/head",
+	"textures": {
+		"3": "zelda_oot_mob:blueprint/kokiri_shopkeeper/kokiri_shopkeeper_blink"
+	}
+}

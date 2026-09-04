@@ -1,7 +1,0 @@
-{
-	"parent": "zelda_oot:blueprint/fado/head",
-	"textures": {
-		"0": "zelda_oot:blueprint/fado/fado_blink",
-		"2": "zelda_oot:blueprint/fado/fado"
-	}
-}

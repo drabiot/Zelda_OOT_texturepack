@@ -1,6 +1,0 @@
-{
-	"parent": "zelda_oot:blueprint/link/right_leg",
-	"textures": {
-		"0": "zelda_oot:blueprint/link/young_link_blink"
-	}
-}

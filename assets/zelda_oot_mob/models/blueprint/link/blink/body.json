@@ -1,0 +1,6 @@
+{
+	"parent": "zelda_oot_mob:blueprint/link/body",
+	"textures": {
+		"0": "zelda_oot_mob:blueprint/link/young_link_blink"
+	}
+}

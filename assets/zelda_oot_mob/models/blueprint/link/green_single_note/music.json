@@ -1,0 +1,9 @@
+{
+	"parent": "zelda_oot_mob:blueprint/link/music",
+	"textures": {
+		"3": "zelda_oot_mob:blueprint/link/music_note3",
+		"5": "zelda_oot_mob:blueprint/link/music_note3",
+		"6": "zelda_oot_mob:blueprint/link/music_note3",
+		"7": "zelda_oot_mob:blueprint/link/music_note3"
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"textures": {
+		"6": "zelda_oot_mob:blueprint/link/music_note5",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6, 22, 7],
+			"to": [9, 28, 7],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [7, 22, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 6, 12],
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [0, 0, 0, 12],
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [6, 0, 12, 12],
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [0, 0, 0, 12],
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [6, 0, 0, 0],
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [0, 0, 6, 0],
+					"texture": "#6"
+				}
+			}
+		}
+	]
+}
